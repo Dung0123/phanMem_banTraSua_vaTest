@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="DuAn_1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DuAn_1/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn_1/jakarta.activation-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn_1/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn_1/mssql-jdbc-12.2.0.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn_1/jakarta.mail-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DuAn_1/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
